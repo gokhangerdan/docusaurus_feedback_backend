@@ -1,6 +1,8 @@
 # Docusaurus Feedback Backend
 This is a backend application for saving and receiving user feedbacks, powered by fastapi and sqlite to use with docusaurus sites. Follow the link to read the tutorial for the frontend.
 
+https://gokhang1327.medium.com/how-to-add-feedbacks-to-docusaurus-df18559ce59f
+
 # Testing
 ```
 python3 -m venv env
